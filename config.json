@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefarse",
+        "uuid": 7455996,
+        "checksum": "mrev79"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
